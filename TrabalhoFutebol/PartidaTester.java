@@ -9,7 +9,7 @@ public class PartidaTester{
 		
 		Scanner var = new Scanner(System.in);
 		
-		System.out.printf("Iniciando as partidas da rodada do Brasileir„o\n");
+		System.out.printf("Iniciando as partidas da rodada do Brasileir√£o\n");
 		
 		for (int i = 1; i < 4; i++) {
 			
@@ -53,7 +53,7 @@ public class PartidaTester{
 		System.out.println("##########################################");
 		System.out.println("Artilheiro: Alessandro Fidelis");
 		System.out.println("##########################################");
-		System.out.println("Github:https://github.com/alessandrofidelis/POO/TrabalhoFutebol");
+		System.out.println("Github:https://github.com/alessandrofidelis/POO/tree/master/TrabalhoFutebol");
 		System.out.println("##########################################");
 		System.out.println("Video Youtube:https://youtu.be/vQCirYLjyUs");
 		
