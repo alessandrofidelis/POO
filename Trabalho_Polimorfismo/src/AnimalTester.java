@@ -2,6 +2,12 @@ public class AnimalTester {
 
 	public static void main(String[] args) {
 
+		System.out.println("***********************************");
+		System.out.println("Nome: Alessandro Fidelis");
+		System.out.println("Matricula:0050010917");
+		System.out.println("***********************************");
+
+
 		Ave Ave = new Ave();
 		Mamifero Mamifero = new Mamifero();
 		Peixe Peixe = new Peixe();
