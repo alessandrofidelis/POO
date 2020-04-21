@@ -1,7 +1,7 @@
 public class AnimalTester {
 
 	public static void main(String[] args) {
-
+		
 		System.out.println("***********************************");
 		System.out.println("Nome: Alessandro Fidelis");
 		System.out.println("Matricula:0050010917");
@@ -60,6 +60,7 @@ public class AnimalTester {
 		Canguru.setCorPelo("Marrom");
 		Canguru.setPeso(30);
 		Canguru.mostrar();
+		Canguru.usarBolsa();
 		Canguru.locomover();
 		Canguru.emitirSom();
 		Canguru.alimentar();
